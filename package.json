@@ -1,0 +1,24 @@
+{
+  "name": "njsxts-proj",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "dist/fizzbuzz.js",
+  "scripts": {
+    "build": "tsc",
+    "start-fizzbuzz": "node dist/fizzbuzz.js",
+    "start-palindrome": "node dist/palindrome.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aulianurhady/njsXts-proj.git"
+  },
+  "author": "Aulia Nurhady",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aulianurhady/njsXts-proj/issues"
+  },
+  "homepage": "https://github.com/aulianurhady/njsXts-proj#readme",
+  "dependencies": {
+    "typescript": "^4.9.5"
+  }
+}
